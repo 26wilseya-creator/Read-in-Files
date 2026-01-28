@@ -17,5 +17,8 @@ public class files{
         }
         System.out.println(counter);
         scanner.close();
+
+        Scanner scanner2 = new Scanner (file);
+        
     }
 }
